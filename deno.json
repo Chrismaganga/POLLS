@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@tanstack/react-router": "npm:@tanstack/react-router@^1.95.1",
+    "@tanstack/router-devtools": "npm:@tanstack/router-devtools@^1.95.1",
+    "@tanstack/router-plugin": "npm:@tanstack/router-plugin@^1.95.1"
+  }
+}
